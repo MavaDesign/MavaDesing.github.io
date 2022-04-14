@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+	background: #000000;
+	padding: 10px;
+}
+.titulo{
+	font-size: 30px;
+	color: #3568A5;
+	text-align: center;
+}
+.contenedor_section{
+	display: flex;
+}
+
+.parrafo{
+	color: #5F5F5F;
+	font-size: 20px;
+	text-align: center;
+}
+.barradivisora{
+	padding-left: 450px;
+}
+.titulolugar{
+	text-align: center;
+	font-size: 20px;
+}
+.parrafolugar{
+	font-size: 15px;
+}
+.salitre{
+	width: 300px;
+	padding: 70px;
+}
+.vermas{
+	margin-left: 80px;
+}
+.contenedor_aside{
+	
+}
